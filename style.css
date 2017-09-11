@@ -2,6 +2,10 @@
 
 .exempel-elev { color: aqua; }
 
+.frans-wrede  { color: #ff6600;
+				font-style: italic; }
+
+
 
 .fredrik-wasstrom span:nth-child(1){color:red;}
 .fredrik-wasstrom span:nth-child(2){color:orange;}
@@ -12,5 +16,6 @@
 .tony-laurla { color: #009; }
 
 .christian-haggblom { color: aqua; }
+
 
 
