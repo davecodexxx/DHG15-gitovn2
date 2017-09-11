@@ -1,7 +1,22 @@
 /* DHG15 stylezzz */
 
 .exempel-elev { color: aqua; }
+
 .Kalevi-Rinne { 
     color:hotpink;
     font-size: 500px;
 }
+
+
+
+.fredrik-wasstrom span:nth-child(1){color:red;}
+.fredrik-wasstrom span:nth-child(2){color:orange;}
+.fredrik-wasstrom span:nth-child(3){color:green;}
+.fredrik-wasstrom span:nth-child(4){color:blue;}
+
+
+.tony-laurla { color: #009; }
+
+.christian-haggblom { color: aqua; }
+
+
