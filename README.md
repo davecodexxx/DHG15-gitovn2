@@ -1,4 +1,4 @@
-# DHG15-gitovn2
+ # DHG15-gitovn2
 Git övning 2. Fork och Pull Request
 
 Med Fork kan du göra en egen repository på en annan användares repo på GitHub. Du kan sedan fortsätta utveckla det som eget projekt eller t.ex. föreslå ändringar eller förbättringar på koden.
