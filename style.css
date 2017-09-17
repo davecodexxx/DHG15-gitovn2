@@ -2,6 +2,12 @@
 
 .exempel-elev { color: black; }
 
+.gronroos-otto { color: #534; }
+
+.frans-wrede  { color: #ff6600;
+				font-style: italic; }
+
+
 
 .fredrik-wasstrom span:nth-child(1){color:black;}
 .fredrik-wasstrom span:nth-child(2){color:black;}
