@@ -1,7 +1,32 @@
 /* DHG15 stylezzz */
 
+
 .exempel-elev { color: aqua; }
 .christian-haggblom { color: aqua; }
 
-.exempel-elev { color: aqua; }
 .mikael-sandholm { color: midnightblue; }
+
+
+
+.Kalevi-Rinne { 
+    color:hotpink;
+    font-size: 500px;
+
+
+.gronroos-otto { color: #534; }
+
+
+.frans-wrede  { color: #ff6600;
+				font-style: italic; }
+
+
+
+.fredrik-wasstrom span:nth-child(1){color:black;}
+.fredrik-wasstrom span:nth-child(2){color:black;}
+.fredrik-wasstrom span:nth-child(3){color:black;}
+.fredrik-wasstrom span:nth-child(4){color:black;}
+
+
+.tony-laurla { color: black; }
+
+.christian-haggblom { color: black; }
